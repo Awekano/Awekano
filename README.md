@@ -46,3 +46,6 @@ Projet personnel autour de la création de sites web, de services numériques et
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Awekano&layout=compact&theme=tokyonight)
 
 ---
+## 🎬 GIF
+
+![NoCom 2b2t](./nocom-2b2t.gif)
