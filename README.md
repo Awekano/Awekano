@@ -39,12 +39,4 @@ Projet personnel autour de la création de sites web, de services numériques et
 
 ---
 
-## 📊 Statistiques GitHub
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Awekano&show_icons=true&theme=tokyonight)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Awekano&layout=compact&theme=tokyonight)
-
----
-
 ![NoCom 2b2t](./nocom-2b2t.gif)
