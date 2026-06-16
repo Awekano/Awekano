@@ -2,7 +2,7 @@
 
 Bienvenue sur mon profil GitHub !
 
-Je suis étudiant en **BTS CIEL option Informatique & Réseaux**, objectif 42
+Je suis étudiant en **BTS CIEL option Informatique & Réseaux**, objectif **42**
 
 Je travaille notamment sur des projets liés à :
 - 🌐 Développement web
